@@ -1,0 +1,16 @@
+Company Policy (Sample)
+
+1) PTO:
+Employees receive 15 days PTO per year. PTO requests should be submitted at least 7 days in advance.
+
+2) Remote Work:
+Employees may work remotely up to 2 days per week. More than 2 days requires manager approval.
+
+3) Security:
+Do not paste secrets (API keys, passwords) into chat tools. Use environment variables or secret managers.
+
+4) Expenses:
+Reimbursements require receipts. Submit within 30 days of purchase.
+
+FAQ:
+- If a policy is not listed here, it is not approved by default.
